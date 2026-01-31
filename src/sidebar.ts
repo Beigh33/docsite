@@ -123,6 +123,12 @@ const DOCS_SIDEBAR = [
       { label: "Feedback", slug: "docs/feedback" },
     ],
   },
+  {
+    label: "Analytics",
+    items: [
+      { label: "Getting started", slug: "docs/analytics/getting-started" },
+    ],
+  },
 ];
 
 export const sidebar = [
